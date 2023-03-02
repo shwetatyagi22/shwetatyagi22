@@ -30,7 +30,9 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 ### 🥉 Badges:
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shweta2225" alt="LeetCode Badges"/>
+
 ### :fire: My Stats :
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
 
 
