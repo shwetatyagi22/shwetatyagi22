@@ -16,6 +16,8 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 - :mailbox: How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
 
 
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -28,6 +30,8 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
 
 
 ### 🥉 Badges:
