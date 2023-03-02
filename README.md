@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: I am a passionate Java developer with 8 of experience in developing scalable and efficient applications. I have a strong understanding of core Java concepts and am familiar with a range of Java frameworks, including Spring, Hibernate, and Struts.
+I am a passionate Java developer with 8 of experience in developing scalable and efficient applications. I have a strong understanding of core Java concepts and am familiar with a range of Java frameworks, including Spring, Hibernate, and Struts.
 
 My focus is on building high-quality, maintainable code that meets the needs of the end-user. I enjoy working on challenging projects and am constantly seeking new ways to improve my skills and stay up-to-date with the latest industry trends.
 
@@ -13,7 +13,7 @@ When I'm not coding, I enjoy writing articles.
 
 Thank you for taking the time to learn more about me. Please feel free to reach out if you have any questions or would like to discuss potential collaboration opportunities.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
+- :mailbox:How to reach me: [![Linkedin Badge]](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
