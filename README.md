@@ -14,8 +14,6 @@ When I'm not coding, I enjoy writing articles.
 Thank you for taking the time to learn more about me. Please feel free to reach out if you have any questions or would like to discuss potential collaboration opportunities.
 
 <br/>
-
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -31,7 +29,6 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 
 <br/>
-
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
@@ -41,10 +38,8 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shweta2225" alt="LeetCode Badges"/>
 
 
-
 ### 📖 Articles:
-
-https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`shavi22`
+[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=shavi22)
 
 
 :mailbox: How to reach me: &nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat;&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
