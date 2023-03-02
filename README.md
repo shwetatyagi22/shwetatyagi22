@@ -40,7 +40,9 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 ### 📖 Articles:
 [Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=shavi22)
+
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`shavi22`"/>
+
 
 
 :mailbox: How to reach me: &nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat;&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
