@@ -41,5 +41,5 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
 
 
-- :mailbox: How to reach me: &nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat;&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
+:mailbox: How to reach me: &nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat;&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
 
