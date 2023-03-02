@@ -14,6 +14,7 @@ When I'm not coding, I enjoy writing articles.
 Thank you for taking the time to learn more about me. Please feel free to reach out if you have any questions or would like to discuss potential collaboration opportunities.
 
 <br/>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -29,6 +30,7 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 
 <br/>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
