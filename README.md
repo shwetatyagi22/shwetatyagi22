@@ -13,7 +13,7 @@ When I'm not coding, I enjoy writing articles.
 
 Thank you for taking the time to learn more about me. Please feel free to reach out if you have any questions or would like to discuss potential collaboration opportunities.
 
-- :mailbox: How to reach me:     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> (https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -34,6 +34,6 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shwetatyagi225)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
 
 
