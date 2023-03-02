@@ -39,7 +39,7 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 
 ### 📖 Articles:
-[Medium]()
+[Medium](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=shavi22)
 <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`shavi22`"/>
 
 
