@@ -1,5 +1,5 @@
 <h1>
-  Hey 
+  Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -32,13 +32,19 @@ Thank you for taking the time to learn more about me. Please feel free to reach 
 
 <br/>
 
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
+
 
 ### 🥉 Badges:
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shweta2225" alt="LeetCode Badges"/>
 
-### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shwetatyagi22)](https://git.io/streak-stats)
+
+### 📖 Articles:
+
+https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`shavi22`
 
 
 :mailbox: How to reach me: &nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat;&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-tyagi-9703b0115/)
